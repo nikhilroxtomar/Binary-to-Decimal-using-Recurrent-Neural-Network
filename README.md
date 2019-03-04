@@ -4,5 +4,3 @@ Recurrent Neural Network is on the most effective neural network model. It consi
 
 
 We are going to build a Binary to Decimal converter using RNN. We are going to build a RNN from scratch using python, no machine learning libraries are going to be used.
-
-For More: http://idiotdeveloper.tk/binary-decimal-using-recurrent-neural-network-rnn/
